@@ -1,11 +1,9 @@
 Mini.tools
-Jordi Collell
-jordic@gmail.com
-+++++++++++++++++++++++++++++++++++++++++
+===================
+Jordi Collell <jordic@gmail.com>
+http://www.tempointeractiu.net
 
 A set of mini-tools as everyday working.
-
-++++++++++++++++++++++++++++++++++++++
 
 
 to_utf8.py
