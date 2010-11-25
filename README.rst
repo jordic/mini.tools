@@ -1,0 +1,23 @@
+Mini.tools
+Jordi Collell
+jordic@gmail.com
++++++++++++++++++++++++++++++++++++++++++
+
+A set of mini-tools as everyday working.
+
+++++++++++++++++++++++++++++++++++++++
+
+
+to_utf8.py
+====================
+
+A little script to convert a set of files encoded in some local format, 
+to utf8
+
+Usage:
+
+> to_utf8 directory/ extension enctype_files
+    Convert all extension files to utf-8
+> to_utf8 directory/ php
+    Convert all .php files to utf8
+
