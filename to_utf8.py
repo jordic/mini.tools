@@ -21,7 +21,7 @@ You have to supply third parameter because is very difficult to determine
 encodetype with python, for this, you have to determine it, and pass to script
     
 
-- Requires chardet:
+- Requires chardet: http://chardet.feedparser.org/
     pip install chardet
 
 - Tested in python 2.6 OSX
