@@ -6,6 +6,13 @@ http://www.tempointeractiu.net
 A set of mini-tools as everyday working.
 
 
+change_time.py
+====================
+Change time to a directory of files...
+Useful to syncronize photos from diferent cameras in diferent times...
+
+
+
 to_utf8.py
 ====================
 
